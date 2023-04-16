@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I2p7ErhvOil2KzCeT2QY4ee41qpVe25yn524uU08alZyhEUJy6TVvqHneMuhLZ0dgK0vrSVKYW1n7QWa9GWw/w==",
+  "dgSpecHash": "Rib7swF8ggPFEz27+e/hLqCWVwt97baEYtKcr8InKDzVvH4sRvOegsjPdIAUthHtzqPkwfFHey+Dbi+gUyzo3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\MONSTER\\Desktop\\ETicaretUygulaması\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MONSTER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
